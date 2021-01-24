@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大师兄与小惊喜</title>
+  
+  <subtitle>never give up hope</subtitle>
+  <link href="http://192.168.0.88/atom.xml" rel="self"/>
+  
+  <link href="http://192.168.0.88/"/>
+  <updated>2021-01-24T09:55:51.259Z</updated>
+  <id>http://192.168.0.88/</id>
+  
+  <author>
+    <name>evilbros</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初始化也是一个小惊喜</title>
+    <link href="http://192.168.0.88/2021/01/24/init/"/>
+    <id>http://192.168.0.88/2021/01/24/init/</id>
+    <published>2021-01-24T09:53:34.000Z</published>
+    <updated>2021-01-24T09:55:51.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>以前看别人写日记、写博客，分享很多东西。这么多年过去了，今天终于下定决心开始了自己的探索之路。<br>希望在未来的时间里，自己也能记下某些经历，遇到某些惊喜，分享某些值得的事物。虽小依然为之，可以为之而感慨，便能知足欣慰。<br>凡是开头难，需要敦促自己迎难而上，切莫放弃。</p><ul><li>initiating sequence …</li><li>10%</li><li>30%</li><li>50%</li><li>70%</li><li>100%</li><li><strong>Completed</strong></li></ul><p>感谢这个小惊喜</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;以前看别人写日记、写博客，分享很多东西。这么多年过去了，今天终于下定决心开始了自己的探索之路。&lt;br&gt;希望在未来的时间里，自己也能记下某些经历，遇到某些惊喜，分享某些值得的事物。虽小依然为之，可以为之而感慨，便能知足欣慰。&lt;br&gt;凡是开头难，需要敦促自己迎难而上，切莫放弃。</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
