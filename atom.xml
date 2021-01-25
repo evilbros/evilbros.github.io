@@ -3,11 +3,11 @@
   <title>大师兄与小惊喜</title>
   
   <subtitle>never give up hope</subtitle>
-  <link href="http://192.168.0.88/atom.xml" rel="self"/>
+  <link href="https://blog.ioof.top/atom.xml" rel="self"/>
   
-  <link href="http://192.168.0.88/"/>
+  <link href="https://blog.ioof.top/"/>
   <updated>2021-01-24T09:55:51.259Z</updated>
-  <id>http://192.168.0.88/</id>
+  <id>https://blog.ioof.top/</id>
   
   <author>
     <name>evilbros</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>初始化也是一个小惊喜</title>
-    <link href="http://192.168.0.88/2021/01/24/init/"/>
-    <id>http://192.168.0.88/2021/01/24/init/</id>
+    <link href="https://blog.ioof.top/2021/01/24/init/"/>
+    <id>https://blog.ioof.top/2021/01/24/init/</id>
     <published>2021-01-24T09:53:34.000Z</published>
     <updated>2021-01-24T09:55:51.259Z</updated>
     
